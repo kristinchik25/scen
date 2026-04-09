@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
   'background': '#24292e', 
   'lineColor': '#FF0000', 
@@ -45,3 +46,5 @@ graph TD
     style O fill:#90EE90,stroke:#000,color:#000
     style P fill:#FF6347,stroke:#000,color:#000
     style Q fill:#98FB98,stroke:#000,color:#000
+```
+                 
